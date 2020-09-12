@@ -5,7 +5,7 @@ August, 2020
 ```bibtex
 @article{z04:p1,
   title     = Software Engineering, Fall 2020 Project 1},
-  DOI       = {10.5281/zenodo.4026039}, 
+  DOI       = {10.5281/zenodo.4026239}, 
   author    = {Alisha Shahane, Shruti Kangle, Bhoomi Shah, Poorva Kulkarni, Rohan Pillai}, 
   publisher = {Zenodo}, 
   year      = {2020}, 
