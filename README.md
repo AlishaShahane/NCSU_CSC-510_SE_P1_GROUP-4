@@ -1,5 +1,7 @@
 # NCSU_CSC-510_SE_P1_GROUP-4
 
+[![Build Status](https://travis-ci.com/rohanpillai20/NCSU_CSC-510_SE_P1_GROUP-4.svg?branch=master)](https://travis-ci.com/rohanpillai20/NCSU_CSC-510_SE_P1_GROUP-4)
+
 This repository is part of CSC 510 Software Engineering Project 1.
 
 <img align=center src="https://github.com/rohanpillai20/NCSU_CSC-510_SE_P1_GROUP-4/blob/master/Misc/Title_1.png" width="300">
