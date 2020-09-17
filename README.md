@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/rohanpillai20/NCSU_CSC-510_SE_P1_GROUP-4.svg?branch=master)](https://travis-ci.com/rohanpillai20/NCSU_CSC-510_SE_P1_GROUP-4) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4026239.svg)](https://doi.org/10.5281/zenodo.4026239) ![YouTube Video Views](https://img.shields.io/youtube/views/j1aqT9Ic6_Y?style=social)
 
-<b>Virus Prediction - Pandemic made interesting</b>
+### Virus Prediction - Pandemic made interesting
 
 This repository is part of CSC 510 Software Engineering Project 1.
 
