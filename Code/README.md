@@ -13,7 +13,7 @@ The code runs on two different combinations of input parameter.
   3. The number of vaccines available are 150
 
 ### Libraries used:
-	- networkx
+	- igraph
 	- numpy
 	- scipy
 	- matplotlib
