@@ -23,9 +23,9 @@
 || (hard) code conforms to some known patterns |
 |Tools Matter| Use of version control tools|4|
 || Extensive use of version control tools |2|
-|| Repo has an up-to-date requirements.txt file||
+|| Repo has an up-to-date requirements.txt file|4|
 || Repo does not have "ignore" files.||
-||Use of  style checkers ||
+||Use of  style checkers |0|
 ||Extensive Use of  style checkers ||
 || Use of code  formatters. |0|
 || Extensive Use of code  formatters. |0|
