@@ -1,4 +1,3 @@
 igraph
 numpy
-random
 matplotlib
