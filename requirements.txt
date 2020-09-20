@@ -1,5 +1,4 @@
 igraph
 numpy
-math
 random
 matplotlib
