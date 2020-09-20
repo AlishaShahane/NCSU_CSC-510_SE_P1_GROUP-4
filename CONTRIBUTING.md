@@ -11,6 +11,7 @@
 - Add meaningful comments to your code 📜
 - Add appropriate unit tests for the module you contribute to!
 - Ensure any install or build dependencies are removed before the end of the layer when doing a build.
+- Follow the directory structure to keep code and data files in different folders.
 
 
 
