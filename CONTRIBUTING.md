@@ -1,4 +1,4 @@
-# Contributing to NCSU_CSC-510_SE_HW2_GROUP-4 🔊🔓💻
+# Contributing to NCSU_CSC-510_SE_P1_GROUP-4 🔊🔓💻
 
 ## What to keep in mind while adding to this repository ? ✔🎫
 
