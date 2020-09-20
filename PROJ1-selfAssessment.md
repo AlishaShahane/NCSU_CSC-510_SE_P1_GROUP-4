@@ -44,12 +44,12 @@
 || Chat channel: exists|2|
 || Chat channel: is active |2|
 || Test cases:.a large proportion of the issues related to handling failing cases.||
-| zero internal boundaries | evidence that the whole team is using the same tools: everyone can get to all tools and files||
+| Zero internal boundaries | evidence that the whole team is using the same tools: everyone can get to all tools and files||
 | | evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|4|
 | | evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|4|
 | | evidence that the members of the team are working across multiple places in the code base|2|
-| low-regressions rule | (hard to judge) features released are not subsequently removed||
-|short release cycles | (hard to see in short projects) project members are committing often enough so that everyone can get your work|2|
+| Low-regressions rule | (hard to judge) features released are not subsequently removed||
+|Short release cycles | (hard to see in short projects) project members are committing often enough so that everyone can get your work|2|
 
 ## References:
 [Linux Kernel Best Practices](https://go.pardot.com/l/6342/2017-10-24/3xr3f2/6342/188781/Publication_LinuxKernelReport_2017.pdf) (pg. 25, 26)
