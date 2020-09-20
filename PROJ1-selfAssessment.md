@@ -37,7 +37,7 @@
 || Extensive use of  other automated analysis tools||
 || test cases exist|0|
 || test cases are routinely executed|0|
-| Consensus-oriented model| the files CONTRIBUTING.md and CODEOFCONDUCT.md has have multiple edits by multiple people||
+| Consensus-oriented model| the files CONTRIBUTING.md and CODEOFCONDUCT.md has have multiple edits by multiple people|4|
 | | the files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up||
 | | multiple people contribute to discussions|4|
 || issues are discussed before they are closed|4|
@@ -49,7 +49,7 @@
 | | evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|4|
 | | evidence that the members of the team are working across multiple places in the code base|2|
 | Low-regressions rule | (hard to judge) features released are not subsequently removed||
-|Short release cycles | (hard to see in short projects) project members are committing often enough so that everyone can get your work|2|
+|Short release cycles | (hard to see in short projects) project members are committing often enough so that everyone can get your work|4|
 
 ## References:
 [Linux Kernel Best Practices](https://go.pardot.com/l/6342/2017-10-24/3xr3f2/6342/188781/Publication_LinuxKernelReport_2017.pdf) (pg. 25, 26)
