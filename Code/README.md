@@ -10,7 +10,7 @@ Please keep the static.network graph file in the same folder as the notebook. Us
 The code runs on two different combinations of input parameter.
   1. Transmission probabilities β1 = 0.20 and Healing probabilities δ1 =0.70
   2. Transmission probabilities β2 = 0.01 and Healing probabilities δ2 = 0.60
-  3. The number of vaccines available are 150
+  3. The number of vaccines available are in a range of 20 to 30 or 15 to 50.
 
 ### Libraries used:
 	- igraph
