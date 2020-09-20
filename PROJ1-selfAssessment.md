@@ -19,7 +19,7 @@
 ||Docs: what: point descriptions of each class/function (in isolation) |4|
 ||Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z||
 ||Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing||
-||Docs: 3 minute video, posted to YouTube. That convinces people why they want to work on your code.||
+||Docs: 3 minute video, posted to YouTube. That convinces people why they want to work on your code.|4|
 || (hard) code conforms to some known patterns |
 |Tools Matter| Use of version control tools|4|
 || Extensive use of version control tools |2|
@@ -39,7 +39,7 @@
 || test cases are routinely executed|0|
 | consensus-oriented model| the files CONTRIBUTING.md and CODEOFCONDUCT.md has have multiple edits by multiple people||
 | | the files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up||
-| | multiple people contribute to discussions||
+| | multiple people contribute to discussions|4|
 || issues are discussed before they are closed|4|
 || Chat channel: exists|2|
 || Chat channel: is active |2|
