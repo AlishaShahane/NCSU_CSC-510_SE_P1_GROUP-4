@@ -1,3 +1,5 @@
-igraph
-numpy
+nbimporter
+nbformat
+IPython
+python-igraph
 matplotlib
