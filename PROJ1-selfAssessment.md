@@ -8,10 +8,10 @@
 || group meeting moderator rotated among  the group|4|
 || code conforms to some packaging standard||
 || code has can be downloaded from some standard package manager|
-| |workload is spread over the whole team (one team member is often Xtimes more productive than the others... but nevertheless, here is a track record that everyone is contributing a lot)||
+| |workload is spread over the whole team (one team member is often Xtimes more productive than the others... but nevertheless, here is a track record that everyone is contributing a lot)|4|
 || Number of commits|4|
 || Number of commits: by different people|4|
-|| Issues reports: there are many||
+|| Issues reports: there are many|4|
 ||  issues are being  closed|4|
 || License: exists|4|
 || DOI badge: exists |4|
@@ -26,7 +26,7 @@
 || Repo has an up-to-date requirements.txt file|4|
 || Repo does not have "ignore" files.||
 ||Use of  style checkers |4|
-||Extensive Use of  style checkers ||
+||Extensive Use of  style checkers |2|
 || Use of code  formatters. |4|
 || Extensive Use of code  formatters. |0|
 || Use of syntax checkers. |0|
@@ -34,7 +34,7 @@
 || Use of code coverage |0|
 || Extensive use of code coverage |0|
 || other automated analysis tools|2|
-|| Extensive use of  other automated analysis tools||
+|| Extensive use of  other automated analysis tools|4|
 || test cases exist|4|
 || test cases are routinely executed|4|
 | Consensus-oriented model| the files CONTRIBUTING.md and CODEOFCONDUCT.md has have multiple edits by multiple people|4|
