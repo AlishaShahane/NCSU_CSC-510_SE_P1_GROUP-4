@@ -6,7 +6,8 @@
   5. Implement one out of four immunization policies to prevent a pandemic.
   
 ### Instructions:
-Please keep the pandemic_data.txt file in the Data folder and the Python notebook in the Code folder. Use anaconda to open the notebook and run all cells.
+Please keep the pandemic_data.txt file in the Data folder and the Python notebook in the Code folder. The Code and Data folders are at the same level of the folder structure.
+Use anaconda to open the notebook and run all cells.
 The code runs on two different combinations of input parameter.
   1. Transmission probabilities β1 = 0.20 and Healing probabilities δ1 =0.70.
   2. Transmission probabilities β2 = 0.01 and Healing probabilities δ2 = 0.60.
