@@ -11,6 +11,7 @@ class TestAgent(unittest.TestCase):
 
     # Unit test test two functions on a single line
     def test_nodal_precession(self):
+        #Checks the graph formed
         pp1 = pp.Pandemic(0.01, 0.6, range(20, 30, 1))
         expected_state = 324
         returned_state = len(pp1.getGraph("Data/pandemic_data.txt").vs)
