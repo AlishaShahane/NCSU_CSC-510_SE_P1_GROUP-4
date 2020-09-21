@@ -5,7 +5,7 @@ import nbimporter
 import sys
 sys.path.insert(0, r'/Code/')
 
-import PandemicPrediction as pp
+from Code import PandemicPrediction as pp
 
 class TestAgent(unittest.TestCase): 
 
