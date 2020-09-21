@@ -20,7 +20,7 @@ The code runs on two different combinations of input parameter.
 	
 ### Code Formatting:
 The code follows pep8 formatting with the help of an nbextention available in Jupyter Notebooks.
-#### Steps to install and enable the extension:
+#### Steps to [install and enable the extension](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html):
 1) Run following commands:
   - pip install jupyter_contrib_nbextensions
   - jupyter contrib nbextension install --user
