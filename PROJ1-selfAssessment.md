@@ -35,8 +35,8 @@
 || Extensive use of code coverage |0|
 || other automated analysis tools|2|
 || Extensive use of  other automated analysis tools||
-|| test cases exist|0|
-|| test cases are routinely executed|0|
+|| test cases exist|4|
+|| test cases are routinely executed|4|
 | Consensus-oriented model| the files CONTRIBUTING.md and CODEOFCONDUCT.md has have multiple edits by multiple people|4|
 | | the files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up|4|
 | | multiple people contribute to discussions|4|
