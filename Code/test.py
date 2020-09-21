@@ -2,12 +2,11 @@ import unittest
 import os
 
 import nbimporter
-import PandemicPrediction as pp
+import Code.PandemicPrediction as pp
 
 class TestAgent(unittest.TestCase): 
 
-    def setUp(self): 
-        
+    def setUp(self):        
         print("Initialised unit test")
 
     # Unit test test two functions on a single line
