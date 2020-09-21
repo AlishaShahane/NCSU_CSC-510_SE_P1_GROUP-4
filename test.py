@@ -18,6 +18,12 @@ class TestAgent(unittest.TestCase):
         expected_state = 324
         returned_state = len(pp1.getGraph("Data/pandemic_data.txt").vs)
         self.assertEqual(expected_state,returned_state)
+    
+    def test_nodal_ecount(self):
+        pp1 = pp.Pandemic(0.01, 0.6, range(20, 30, 1))
+        expected_state = 6004
+        returned_state = pp1.getGraph("Data/pandemic_data.txt").ecount()
+        self.assertEqual(expected_state,returned_state)
 
 if __name__ == '__main__':
     main = TestAgent()
