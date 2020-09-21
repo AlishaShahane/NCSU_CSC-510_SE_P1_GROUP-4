@@ -25,9 +25,9 @@
 || Extensive use of version control tools |2|
 || Repo has an up-to-date requirements.txt file|4|
 || Repo does not have "ignore" files.||
-||Use of  style checkers |0|
+||Use of  style checkers |4|
 ||Extensive Use of  style checkers ||
-|| Use of code  formatters. |0|
+|| Use of code  formatters. |4|
 || Extensive Use of code  formatters. |0|
 || Use of syntax checkers. |0|
 || Extensive use of syntax checkers. |0|
@@ -43,7 +43,7 @@
 || issues are discussed before they are closed|4|
 || Chat channel: exists|2|
 || Chat channel: is active |2|
-|| Test cases:.a large proportion of the issues related to handling failing cases.||
+|| Test cases:a large proportion of the issues related to handling failing cases.||
 | Zero internal boundaries | evidence that the whole team is using the same tools: everyone can get to all tools and files||
 | | evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|4|
 | | evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|4|
