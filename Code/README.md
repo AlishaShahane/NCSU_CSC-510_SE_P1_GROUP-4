@@ -8,8 +8,8 @@
 ### Instructions:
 Please keep the static.network graph file in the same folder as the notebook. Use anaconda to open the notebook and run all cells.
 The code runs on two different combinations of input parameter.
-  1. Transmission probabilities β1 = 0.20 and Healing probabilities δ1 =0.70
-  2. Transmission probabilities β2 = 0.01 and Healing probabilities δ2 = 0.60
+  1. Transmission probabilities β1 = 0.20 and Healing probabilities δ1 =0.70.
+  2. Transmission probabilities β2 = 0.01 and Healing probabilities δ2 = 0.60.
   3. The number of vaccines available are in a range of 20 to 30 or 15 to 50.
 
 ### Libraries used:
@@ -17,6 +17,19 @@ The code runs on two different combinations of input parameter.
 	- numpy
 	- scipy
 	- matplotlib
+	
+### Code Formatting:
+The code follows pep8 formatting with the help of an nbextention available in Jupyter Notebooks.
+#### Steps to install and enable the extension:
+1) Run following commands:
+  - pip install jupyter_contrib_nbextensions
+  - jupyter contrib nbextension install --user
+  - pip install autopep8
+2) Open Jupyter Notebook.
+3) You should see a Nbextensions tab. Click on it.
+4) Check the 'Autopep8' extension.
+5) The 'hammer' icon you see in your notebook will format your code according to pep8 requirements.
+  
   
 ### Things to implement further:
 The next task is to implement the below-mentioned immunization policies:
