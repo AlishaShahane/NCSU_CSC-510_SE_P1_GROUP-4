@@ -6,11 +6,13 @@ python:
   - "3.6"
 install:
   - pip install -r requirements.txt
+  - python -m pip install dlint
 before_script:
   - curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
   - chmod +x ./cc-test-reporter
   - ./cc-test-reporter before-build
 script:
   - python test.py
+  - python -m flake8 --select=DUO /Code/
 after_script:
   - ./cc-test-reporter format-coverage -t simplecov -o "coverage/codeclimate.$TESTFOLDER.json"
