@@ -1,6 +1,9 @@
-# NCSU_CSC-510_SE_P1_GROUP-4 
+# NCSU CSC-510 Software Engineering Project 1 GROUP-4 
 
-[![Build Status](https://travis-ci.com/rohanpillai20/NCSU_CSC-510_SE_P1_GROUP-4.svg?branch=master)](https://travis-ci.com/rohanpillai20/NCSU_CSC-510_SE_P1_GROUP-4) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4026239.svg)](https://doi.org/10.5281/zenodo.4026239) ![YouTube Video Views](https://img.shields.io/youtube/views/j1aqT9Ic6_Y?style=social)
+[![Build Status](https://travis-ci.com/rohanpillai20/NCSU_CSC-510_SE_P1_GROUP-4.svg?branch=master)](https://travis-ci.com/rohanpillai20/NCSU_CSC-510_SE_P1_GROUP-4) 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4026239.svg)](https://doi.org/10.5281/zenodo.4026239) 
+![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/rohanpillai20/NCSU_CSC-510_SE_P1_GROUP-4)
+![YouTube Video Views](https://img.shields.io/youtube/views/j1aqT9Ic6_Y?style=social)
 
 ### Pandemic Prediction - Pandemic Made Interesting
 
