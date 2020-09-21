@@ -2,7 +2,10 @@ import unittest
 import os
 
 import nbimporter
-import ..Code.PandemicPrediction as pp
+import sys
+sys.path.insert(0, r'/Code/')
+
+import PandemicPrediction as pp
 
 class TestAgent(unittest.TestCase): 
 
