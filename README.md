@@ -19,13 +19,13 @@ Our video can be found [here on YouTube](https://youtu.be/j1aqT9Ic6_Y).
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/j1aqT9Ic6_Y/0.jpg)](http://www.youtube.com/watch?v=j1aqT9Ic6_Y)
 
 ## Why would you want to choose our project??
-#### Most relatable idea! 
+#### Most relatable idea 😷
 This project will be helpful in predicting pandemics in future and applying measures to prevent the world from coming to a standstill. 
-#### We come with solution!
+#### We come with solution 👏🏻
 And even if these simulations do actually result in a pandemic, we are suggesting immunization policies which might help to protect people from the infection and prevent further spread. 
-#### Prerequisites
+#### Prerequisites 😎
 The great thing about this project is that you only need to know python to understand and further implement this project.
-#### Phase 2 support
+#### Phase 2 support 📃
 This project comes with a code stub and a very thorough documentation to help you guide through the second phase.
 
 ## Pending items for project completion
