@@ -7,7 +7,7 @@
 || group meetings had a moderator that managed the round robin|2|
 || group meeting moderator rotated among  the group|4|
 || code conforms to some packaging standard|4|
-|| code has can be downloaded from some standard package manager|
+|| code has can be downloaded from some standard package manager|2|
 | |workload is spread over the whole team (one team member is often Xtimes more productive than the others... but nevertheless, here is a track record that everyone is contributing a lot)|4|
 || Number of commits|4|
 || Number of commits: by different people|4|
