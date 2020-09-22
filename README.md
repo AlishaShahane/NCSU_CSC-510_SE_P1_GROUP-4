@@ -24,7 +24,7 @@ This project will be helpful in predicting pandemics in future and applying meas
 #### We come with solution!
 And even if these simulations do actually result in a pandemic, we are suggesting immunization policies which might help to protect people from the infection and prevent further spread. 
 #### Prerequisites
-The great thing about this project is that for you only need to know python to understand afurther implement this project.
+The great thing about this project is that you only need to know python to understand and further implement this project.
 #### Phase 2 support
 This project comes with a code stub and a very thorough documentation to help you guide through the second phase.
 
