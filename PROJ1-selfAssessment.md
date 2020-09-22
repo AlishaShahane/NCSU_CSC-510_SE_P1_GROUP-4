@@ -44,11 +44,11 @@
 || Chat channel: exists|2|
 || Chat channel: is active |2|
 || Test cases:a large proportion of the issues related to handling failing cases.||
-| Zero internal boundaries | evidence that the whole team is using the same tools: everyone can get to all tools and files||
+| Zero internal boundaries | evidence that the whole team is using the same tools: everyone can get to all tools and files|4|
 | | evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|4|
 | | evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|4|
 | | evidence that the members of the team are working across multiple places in the code base|2|
-| Low-regressions rule | (hard to judge) features released are not subsequently removed||
+| Low-regressions rule | (hard to judge) features released are not subsequently removed|2|
 |Short release cycles | (hard to see in short projects) project members are committing often enough so that everyone can get your work|4|
 
 ## References:
